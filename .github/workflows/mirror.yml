@@ -1,0 +1,26 @@
+name: mirror
+on:
+  schedule:
+    - cron: '2,32 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: mirror
+  cancel-in-progress: false
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node mirror.mjs
+      - name: Commit changes
+        run: |
+          git add -A
+          if git diff --cached --quiet -- posts.json img; then echo "Змін немає"; exit 0; fi
+          git -c user.name=github-actions -c user.email=github-actions@users.noreply.github.com commit -q -m "Оновлення дзеркала"
+          git push
