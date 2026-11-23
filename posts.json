@@ -1,5 +1,485 @@
 [
  {
+  "id": 72016,
+  "date_gmt": "2026-11-23T12:00:45",
+  "link": "https://ukrainska-gromada.gov.ua/advertisements/ogoloshennya-pro-organizacziyu-ta-provedennya-gromadskyh-sluhan-shhodo-proyektu-statutu-ukrayinskoyi-miskoyi-terytorialnoyi-gromady.html",
+  "title": {
+   "rendered": "Оголошення про організацію та проведення громадських слухань щодо проєкту Статуту Української міської територіальної громади"
+  },
+  "content": {
+   "rendered": "\n<div data-wp-interactive=\"core/file\" class=\"wp-block-file\"><object data-wp-bind--hidden=\"!state.hasPdfPreview\" hidden class=\"wp-block-file__embed\" data=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/dokument-001-71-1.pdf\" type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Вставка ДОКУМЕНТ-001 (71)\"></object><a id=\"wp-block-file--media-dd498e57-7e6b-4a30-9278-c0522eb3bfe3\" href=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/dokument-001-71-1.pdf\">ДОКУМЕНТ-001 (71)</a><a href=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/dokument-001-71-1.pdf\" class=\"wp-block-file__button wp-element-button\" download aria-describedby=\"wp-block-file--media-dd498e57-7e6b-4a30-9278-c0522eb3bfe3\">Завантажити</a></div>\n\n\n\n<div data-wp-interactive=\"core/file\" class=\"wp-block-file\"><object data-wp-bind--hidden=\"!state.hasPdfPreview\" hidden class=\"wp-block-file__embed\" data=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/dokument-001-63.pdf\" type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Вставка ДОКУМЕНТ-001 (63)\"></object><a id=\"wp-block-file--media-52b0dd43-2369-44b8-bcf3-bae9be1cb168\" href=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/dokument-001-63.pdf\">ДОКУМЕНТ-001 (63)</a><a href=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/dokument-001-63.pdf\" class=\"wp-block-file__button wp-element-button\" download aria-describedby=\"wp-block-file--media-52b0dd43-2369-44b8-bcf3-bae9be1cb168\">Завантажити</a></div>\n",
+   "protected": false
+  },
+  "categories": [
+   93
+  ],
+  "_links": {
+   "self": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72016",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=72016"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 1,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72016/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 72020,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72016/revisions/72020"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=72016"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "category",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=72016"
+    },
+    {
+     "taxonomy": "post_tag",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=72016"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 72009,
+  "date_gmt": "2026-11-23T11:50:02",
+  "link": "https://ukrainska-gromada.gov.ua/general/informaczijni-materialy-naczionalnogo-muzeyu-revolyucziyi-gidnosti-2.html",
+  "title": {
+   "rendered": "ІНФОРМАЦІЙНІ МАТЕРІАЛИ НАЦІОНАЛЬНОГО МУЗЕЮ РЕВОЛЮЦІЇ ГІДНОСТІ"
+  },
+  "content": {
+   "rendered": "\n<div data-wp-interactive=\"core/file\" class=\"wp-block-file\"><object data-wp-bind--hidden=\"!state.hasPdfPreview\" hidden class=\"wp-block-file__embed\" data=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/im-uinp-2026-2.pdf\" type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Вставка ІМ УІНП 2026\"></object><a id=\"wp-block-file--media-46827036-6250-4506-b615-23ad036704e7\" href=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/im-uinp-2026-2.pdf\">ІМ УІНП 2026</a><a href=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/im-uinp-2026-2.pdf\" class=\"wp-block-file__button wp-element-button\" download aria-describedby=\"wp-block-file--media-46827036-6250-4506-b615-23ad036704e7\">Завантажити</a></div>\n",
+   "protected": false
+  },
+  "categories": [
+   92
+  ],
+  "_links": {
+   "self": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72009",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=72009"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 1,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72009/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 72012,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72009/revisions/72012"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=72009"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "category",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=72009"
+    },
+    {
+     "taxonomy": "post_tag",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=72009"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 72006,
+  "date_gmt": "2026-11-23T11:33:54",
+  "link": "https://ukrainska-gromada.gov.ua/general/informaczijni-materialy-naczionalnogo-muzeyu-revolyucziyi-gidnosti.html",
+  "title": {
+   "rendered": "ІНФОРМАЦІЙНІ МАТЕРІАЛИ НАЦІОНАЛЬНОГО МУЗЕЮ РЕВОЛЮЦІЇ ГІДНОСТІ"
+  },
+  "content": {
+   "rendered": "\n<div data-wp-interactive=\"core/file\" class=\"wp-block-file\"><object data-wp-bind--hidden=\"!state.hasPdfPreview\" hidden class=\"wp-block-file__embed\" data=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/im-uinp-2026.pdf\" type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Вставка ІМ УІНП 2026\"></object><a id=\"wp-block-file--media-7f3d8dbf-52d7-462d-be91-272dad8adeed\" href=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/im-uinp-2026.pdf\">ІМ УІНП 2026</a><a href=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/im-uinp-2026.pdf\" class=\"wp-block-file__button wp-element-button\" download aria-describedby=\"wp-block-file--media-7f3d8dbf-52d7-462d-be91-272dad8adeed\">Завантажити</a></div>\n",
+   "protected": false
+  },
+  "categories": [
+   92
+  ],
+  "_links": {
+   "self": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72006",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=72006"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 1,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72006/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 72008,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72006/revisions/72008"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=72006"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "category",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=72006"
+    },
+    {
+     "taxonomy": "post_tag",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=72006"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 72013,
+  "date_gmt": "2026-11-21T11:52:13",
+  "link": "https://ukrainska-gromada.gov.ua/community/ukrayina-vidznachaye-den-gidnosti-ta-svobody.html",
+  "title": {
+   "rendered": "Україна відзначає День Гідності та Свободи"
+  },
+  "content": {
+   "rendered": "\n<p class=\"wp-block-paragraph\">21 листопада в Україні відзначають День Гідності та Свободи. Ця дата пов’язана з початком двох революцій — Помаранчевої у 2004 році та Революції Гідності у 2013 році.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Метою запровадження пам’ятної дати є утвердження в Україні ідеалів свободи і демократії, вшанування патріотизму й мужності громадян, які стали на захист демократичних цінностей, прав і свобод людини, національних інтересів держави та її європейського вибору.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Пам’ятаємо тих, хто відстоював свободу держави тоді.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Дякуємо тим, хто продовжує захищати її сьогодні.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   17
+  ],
+  "_links": {
+   "self": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72013",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=72013"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 1,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72013/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 72015,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72013/revisions/72015"
+    }
+   ],
+   "wp:featuredmedia": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/72014"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=72013"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "category",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=72013"
+    },
+    {
+     "taxonomy": "post_tag",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=72013"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  },
+  "_embedded": {
+   "wp:featuredmedia": [
+    {
+     "id": 72014,
+     "date": "2026-11-23T13:53:01",
+     "slug": "soczialna-kampaniya-variant-5",
+     "type": "attachment",
+     "link": "https://ukrainska-gromada.gov.ua/community/ukrayina-vidznachaye-den-gidnosti-ta-svobody.html/attachment/soczialna-kampaniya-variant-5",
+     "title": {
+      "rendered": "Соціальна кампанія, варіант 5"
+     },
+     "author": 5,
+     "featured_media": 0,
+     "caption": {
+      "rendered": ""
+     },
+     "alt_text": "",
+     "media_type": "image",
+     "mime_type": "image/jpeg",
+     "media_details": {
+      "width": 702,
+      "height": 877,
+      "file": "2026/11/soczialna-kampaniya-variant-5.jpg",
+      "filesize": 122712,
+      "sizes": {
+       "medium": {
+        "file": "soczialna-kampaniya-variant-5-240x300.jpg",
+        "width": 240,
+        "height": 300,
+        "filesize": 16061,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72013.jpg"
+       },
+       "thumbnail": {
+        "file": "soczialna-kampaniya-variant-5-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 6604,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72013.jpg"
+       },
+       "egovt_portfolio_thumb": {
+        "file": "soczialna-kampaniya-variant-5-480x600.jpg",
+        "width": 480,
+        "height": 600,
+        "filesize": 48467,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72013.jpg"
+       },
+       "egovt_blog_thumb": {
+        "file": "soczialna-kampaniya-variant-5-448x560.jpg",
+        "width": 448,
+        "height": 560,
+        "filesize": 42816,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72013.jpg"
+       },
+       "full": {
+        "file": "soczialna-kampaniya-variant-5.jpg",
+        "width": 702,
+        "height": 877,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72013.jpg"
+       }
+      },
+      "image_meta": {
+       "aperture": "0",
+       "credit": "",
+       "camera": "",
+       "caption": "",
+       "created_timestamp": "0",
+       "copyright": "",
+       "focal_length": "0",
+       "iso": "0",
+       "shutter_speed": "0",
+       "title": "",
+       "orientation": "0",
+       "keywords": [],
+       "alt": ""
+      }
+     },
+     "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72013.jpg",
+     "_links": {
+      "self": [
+       {
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/72014",
+        "targetHints": {
+         "allow": [
+          "GET"
+         ]
+        }
+       }
+      ],
+      "collection": [
+       {
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media"
+       }
+      ],
+      "about": [
+       {
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/attachment"
+       }
+      ],
+      "author": [
+       {
+        "embeddable": true,
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
+       }
+      ],
+      "replies": [
+       {
+        "embeddable": true,
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=72014"
+       }
+      ],
+      "wp:attached-to": [
+       {
+        "embeddable": true,
+        "post_type": "post",
+        "id": 72013,
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72013"
+       }
+      ],
+      "curies": [
+       {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
   "id": 72002,
   "date_gmt": "2026-11-21T11:20:00",
   "link": "https://ukrainska-gromada.gov.ua/community/tryvayut-roboty-spryamovani-na-pokrashhennya-ta-stabilizacziyu-elektropostachannya.html",
@@ -5799,658 +6279,6 @@
        }
       ]
      }
-    }
-   ]
-  }
- },
- {
-  "id": 71866,
-  "date_gmt": "2026-10-23T07:23:49",
-  "link": "https://ukrainska-gromada.gov.ua/community/rozyasnennya-shhodo-vstanovlennya-indyvidualnogo-gazovogo-opalennya-u-kvartyrah.html",
-  "title": {
-   "rendered": "Роз’яснення щодо встановлення індивідуального газового опалення у квартирах"
-  },
-  "content": {
-   "rendered": "\n<p class=\"wp-block-paragraph\">Шановні мешканці громади! Інформуємо про порядок дій для власників квартир, які мають намір перейти з централізованого опалення на індивідуальне газове опалення.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Важливо: відключення квартири від системи централізованого теплопостачання та встановлення газового котла – це окремі процедури, які мають здійснюватися з дотриманням вимог чинного законодавства.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Відповідно до пункту 12 частини першої статті 7 Закону України «Про житловокомунальні послуги» споживач має право у встановленому законодавством порядку відключитися від систем централізованого теплопостачання та постачання гарячої води.</p>\n\n\n\n<p class=\"wp-block-paragraph\"> Процедура відключення власників квартир та нежитлових приміщень багатоквартирних будинків від мереж централізованого опалення та постачання гарячої води регулюється відповідним Порядком, затвердженим наказом від 26.07.2019 № 169.</p>\n\n\n\n<p class=\"wp-block-paragraph\"> Разом із тим, якщо джерелом індивідуального теплопостачання передбачається використання газового обладнання, його встановлення та відповідна реконструкція системи газопостачання мають здійснюватися з дотриманням вимог Кодексу ГРМ та ПБСГ.</p>\n\n\n\n<p class=\"wp-block-paragraph\"> Відповідно до пункту 5 глави 1 розділу V Кодексу газорозподільних систем, у разі реконструкції чи технічного переоснащення вже підключеного до газорозподільної системи об’єкта, якщо це не призводить до необхідності збільшення технічної (пропускної) потужності ГРМ у точці приєднання, новий договір на приєднання не укладається.</p>\n\n\n\n<p class=\"wp-block-paragraph\"> При зміні місця розташування газових приладів у встановленому законодавством порядку вносяться відповідні зміни до проєктної документації, а за її відсутності розробляється нова проєктна документація за рахунок сторони, яка ініціювала реконструкцію чи технічне переоснащення.</p>\n\n\n\n<p class=\"wp-block-paragraph\"> Крім того, заміна газового обладнання здійснюється за заявою власника (орендаря, наймача) суб’єктом господарювання, який має відповідний дозвіл на виконання таких робіт.</p>\n\n\n\n<p class=\"wp-block-paragraph\"> Заміна обладнання оформлюється ескізом лише у разі заміни газового обладнання без зміни його функціонального призначення, потужності та системи димовідведення.</p>\n\n\n\n<p class=\"wp-block-paragraph\">В інших випадках оформлюється виконавчо-технічна документація.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><strong> Отже, загальний алгоритм дій власника квартири, який має намір облаштувати індивідуальне газове опалення, передбачає:</strong></p>\n\n\n\n<p class=\"wp-block-paragraph\">Вирішення в установленому законодавством порядку питання щодо можливості відокремлення (відключення) квартири від системи централізованого опалення відповідно до Порядку, затвердженого наказом № 169.</p>\n\n\n\n<p class=\"wp-block-paragraph\"> Після отримання документів, які надають правові підстави для облаштування індивідуальної системи опалення, звернення щодо реконструкції/технічного переоснащення системи газопостачання квартири.</p>\n\n\n\n<p class=\"wp-block-paragraph\"> Розроблення або внесення відповідних змін до проєктної документації на систему газопостачання з урахуванням передбаченого до встановлення газового обладнання.</p>\n\n\n\n<p class=\"wp-block-paragraph\"> Виконання монтажних та інших робіт суб’єктами господарювання, які мають право виконувати відповідні роботи, із дотриманням вимог нормативно-правових актів у сфері безпеки систем газопостачання.</p>\n\n\n\n<p class=\"wp-block-paragraph\"> Оформлення передбаченої нормативними документами виконавчо-технічної документації та здійснення пуску газу після завершення робіт у встановленому порядку.</p>\n\n\n\n<p class=\"wp-block-paragraph\"> Відключення газу перед заміною обладнання та пуск газу після її завершення здійснюються газорозподільним підприємством за зверненням власника; пуск проводиться після проведення інструктажу з безпечної експлуатації обладнання.</p>\n\n\n\n<p class=\"wp-block-paragraph\">При цьому сам факт прийняття рішення про відключення квартири від централізованого теплопостачання не є автоматичною підставою для встановлення та підключення газового котла. Технічна можливість виконання відповідної реконструкції системи газопостачання має визначатися щодо конкретного об’єкта з урахуванням існуючої системи газопостачання, передбаченого газового обладнання та вимог чинних нормативноправових актів.</p>\n\n\n\n<p class=\"wp-block-paragraph\"> Отже, власникам квартир, які мають намір встановити індивідуальне газове опалення, необхідно в першу чергу пройти передбачену законодавством процедуру відключення від централізованого теплопостачання, після чого звернутися до Оператора ГРМ для вирішення в установленому порядку питань, що належать до його компетенції.</p>\n",
-   "protected": false
-  },
-  "categories": [
-   17
-  ],
-  "_links": {
-   "self": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71866",
-     "targetHints": {
-      "allow": [
-       "GET"
-      ]
-     }
-    }
-   ],
-   "collection": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
-    }
-   ],
-   "about": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
-    }
-   ],
-   "author": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
-    }
-   ],
-   "replies": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=71866"
-    }
-   ],
-   "version-history": [
-    {
-     "count": 1,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71866/revisions"
-    }
-   ],
-   "predecessor-version": [
-    {
-     "id": 71868,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71866/revisions/71868"
-    }
-   ],
-   "wp:featuredmedia": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/71867"
-    }
-   ],
-   "wp:attachment": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=71866"
-    }
-   ],
-   "wp:term": [
-    {
-     "taxonomy": "category",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=71866"
-    },
-    {
-     "taxonomy": "post_tag",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=71866"
-    }
-   ],
-   "curies": [
-    {
-     "name": "wp",
-     "href": "https://api.w.org/{rel}",
-     "templated": true
-    }
-   ]
-  },
-  "_embedded": {
-   "wp:featuredmedia": [
-    {
-     "id": 71867,
-     "date": "2026-10-23T10:23:41",
-     "slug": "01001s5m-f334_1280x720",
-     "type": "attachment",
-     "link": "https://ukrainska-gromada.gov.ua/community/rozyasnennya-shhodo-vstanovlennya-indyvidualnogo-gazovogo-opalennya-u-kvartyrah.html/attachment/01001s5m-f334_1280x720",
-     "title": {
-      "rendered": "01001s5m-f334_1280x720"
-     },
-     "author": 5,
-     "featured_media": 0,
-     "caption": {
-      "rendered": ""
-     },
-     "alt_text": "",
-     "media_type": "image",
-     "mime_type": "image/jpeg",
-     "media_details": {
-      "width": 1245,
-      "height": 720,
-      "file": "2026/10/01001s5m-f334_1280x720.jpeg",
-      "filesize": 34588,
-      "sizes": {
-       "medium": {
-        "file": "01001s5m-f334_1280x720-300x173.jpeg",
-        "width": 300,
-        "height": 173,
-        "filesize": 7552,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71866.jpg"
-       },
-       "large": {
-        "file": "01001s5m-f334_1280x720-1024x592.jpeg",
-        "width": 1024,
-        "height": 592,
-        "filesize": 43178,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71866.jpg"
-       },
-       "thumbnail": {
-        "file": "01001s5m-f334_1280x720-150x150.jpeg",
-        "width": 150,
-        "height": 150,
-        "filesize": 4342,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71866.jpg"
-       },
-       "medium_large": {
-        "file": "01001s5m-f334_1280x720-768x444.jpeg",
-        "width": 768,
-        "height": 444,
-        "filesize": 28896,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71866.jpg"
-       },
-       "egovt_portfolio_thumb": {
-        "file": "01001s5m-f334_1280x720-600x347.jpeg",
-        "width": 600,
-        "height": 347,
-        "filesize": 20403,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71866.jpg"
-       },
-       "egovt_blog_thumb": {
-        "file": "01001s5m-f334_1280x720-560x324.jpeg",
-        "width": 560,
-        "height": 324,
-        "filesize": 18501,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71866.jpg"
-       },
-       "full": {
-        "file": "01001s5m-f334_1280x720.jpeg",
-        "width": 1245,
-        "height": 720,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71866.jpg"
-       }
-      },
-      "image_meta": {
-       "aperture": "0",
-       "credit": "",
-       "camera": "",
-       "caption": "",
-       "created_timestamp": "0",
-       "copyright": "",
-       "focal_length": "0",
-       "iso": "0",
-       "shutter_speed": "0",
-       "title": "",
-       "orientation": "0",
-       "keywords": [],
-       "alt": ""
-      }
-     },
-     "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71866.jpg",
-     "_links": {
-      "self": [
-       {
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/71867",
-        "targetHints": {
-         "allow": [
-          "GET"
-         ]
-        }
-       }
-      ],
-      "collection": [
-       {
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media"
-       }
-      ],
-      "about": [
-       {
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/attachment"
-       }
-      ],
-      "author": [
-       {
-        "embeddable": true,
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
-       }
-      ],
-      "replies": [
-       {
-        "embeddable": true,
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=71867"
-       }
-      ],
-      "wp:attached-to": [
-       {
-        "embeddable": true,
-        "post_type": "post",
-        "id": 71866,
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71866"
-       }
-      ],
-      "curies": [
-       {
-        "name": "wp",
-        "href": "https://api.w.org/{rel}",
-        "templated": true
-       }
-      ]
-     }
-    }
-   ]
-  }
- },
- {
-  "id": 71863,
-  "date_gmt": "2026-10-21T11:17:53",
-  "link": "https://ukrainska-gromada.gov.ua/advertisements/vebinar-biologizacziya-zemlerobstva-znannya-tehnologiyi-praktychni-rishennya.html",
-  "title": {
-   "rendered": "Вебінар «Біологізація землеробства: знання, технології, практичні рішення»"
-  },
-  "content": {
-   "rendered": "\n<p class=\"wp-block-paragraph\">Як працюють біопрепарати та органічні каталізатори? Як правильно їх застосовувати й отримувати максимальну користь у господарстві? Запрошуємо фермерів на онлайн-сесію, присвячену поглибленню знань про біологізацію землеробства та практичному застосуванню сучасних агротехнологічних рішень.<br></p>\n\n\n\n<p class=\"wp-block-paragraph\">Захід стане продовженням співпраці УкрНДІПВТ ім. Л. Погорілого та Tony Blair Institute for Global<br>Change (TBI). Поєднаємо наукові результати з навчанням і практичним досвідом, щоб допомогти<br>аграріям краще розуміти принципи дії препаратів та особливості їх використання в полі.<br></p>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>На що зробимо акцент?</strong><br>▪️ Глибше про механізми дії — як працюють біопрепарати й органічні каталізатори, на які процеси<br>впливають і від чого залежить їхня ефективність.<br>▪️ Результати наукових досліджень — що показали дослідження УкрНДІПВТ ім. Л. Погорілого та<br>які висновки можна використати на практиці.<br>▪️ Рекомендації від виробників — особливості застосування препаратів, практичні поради та<br>умови, за яких вони можуть бути найбільш ефективними.<br>▪️ Відкритий діалог із фермерами — обговорення практичного досвіду, проблемних питань і<br>ситуацій, із якими аграрії стикаються у своїх господарствах.<br>Це можливість не просто дізнатися про нові продукти, а краще зрозуміти, як вони працюють,<br>коли доцільно їх застосовувати та як оцінювати результати. Ваші запитання й досвід стануть<br>важливою частиною професійного діалогу.<br> Дата: 22 жовтня 2026 року<br> Формат: онлайн<br>Організатори: УкрНДІПВТ ім. Л. Погорілого спільно з Tony Blair Institute for Global Change (TBI).<br> Реєстрація:<br><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdwd242W317TLuvdUsFKXh1FSIX33uVfikCp1XopgIMW93Aaw/viewform\">https://docs.google.com/forms/d/e/1FAIpQLSdwd242W317TLuvdUsFKXh1FSIX33uVfikCp1XopgIMW93Aaw/viewform</a> <br>Запрошуємо фермерів долучатися, поглиблювати знання та шукати практичні рішення для своїх<br>господарств разом із науковцями й виробниками.<br>Від розуміння механізмів дії — до обґрунтованих рішень у полі!<br>Дізнатися детальніше: <a href=\"https://www.ndipvt.com.ua/\">https://www.ndipvt.com.ua/</a></p>\n\n\n\n<div data-wp-interactive=\"core/file\" class=\"wp-block-file\"><object data-wp-bind--hidden=\"!state.hasPdfPreview\" hidden class=\"wp-block-file__embed\" data=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/anons.pdf\" type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Вставка Анонс\"></object><a id=\"wp-block-file--media-0abc26c0-5878-46b4-a64a-0885f1ad86cc\" href=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/anons.pdf\">Анонс</a><a href=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/anons.pdf\" class=\"wp-block-file__button wp-element-button\" download aria-describedby=\"wp-block-file--media-0abc26c0-5878-46b4-a64a-0885f1ad86cc\">Завантажити</a></div>\n\n\n\n<p class=\"has-text-align-right wp-block-paragraph\">МІНІСТЕРСТВО ЕКОНОМІКИ ТА<br>ДОВКІЛЛЯ УКРАЇНИ</p>\n",
-   "protected": false
-  },
-  "categories": [
-   93
-  ],
-  "_links": {
-   "self": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71863",
-     "targetHints": {
-      "allow": [
-       "GET"
-      ]
-     }
-    }
-   ],
-   "collection": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
-    }
-   ],
-   "about": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
-    }
-   ],
-   "author": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
-    }
-   ],
-   "replies": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=71863"
-    }
-   ],
-   "version-history": [
-    {
-     "count": 1,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71863/revisions"
-    }
-   ],
-   "predecessor-version": [
-    {
-     "id": 71865,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71863/revisions/71865"
-    }
-   ],
-   "wp:attachment": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=71863"
-    }
-   ],
-   "wp:term": [
-    {
-     "taxonomy": "category",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=71863"
-    },
-    {
-     "taxonomy": "post_tag",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=71863"
-    }
-   ],
-   "curies": [
-    {
-     "name": "wp",
-     "href": "https://api.w.org/{rel}",
-     "templated": true
-    }
-   ]
-  }
- },
- {
-  "id": 71855,
-  "date_gmt": "2026-10-21T07:48:58",
-  "link": "https://ukrainska-gromada.gov.ua/community/stan-donorom-krovi-vryatuj-zhyttya.html",
-  "title": {
-   "rendered": "Стань донором крові &#8211; врятуй життя!"
-  },
-  "content": {
-   "rendered": "\n<p class=\"wp-block-paragraph\">Шановна громадо! Завтра, 22 жовтня у КНП «Сіверськодонецька міська багатопрофільна лікарня» відбудеться День донора!</p>\n\n\n\n<p class=\"wp-block-paragraph\">Це &#8211; життєво важлива ініціатива! Одна донація крові може врятувати до трьох життів.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Запрошуємо всіх небайдужих долучитися до доброї справи та стати донором.</p>\n\n\n\n<p class=\"wp-block-paragraph\"> м. Українка, вул. Київська, 1</p>\n\n\n\n<p class=\"wp-block-paragraph\">22 жовтня 09:00–13:00</p>\n\n\n\n<p class=\"wp-block-paragraph\"><img loading=\"lazy\" decoding=\"async\" height=\"16\" width=\"16\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t4d/1/16/1f4de.png\" alt=\"📞\"> Довідки за телефоном:</p>\n\n\n\n<p class=\"wp-block-paragraph\">+380 93 387 34 54</p>\n\n\n\n<p class=\"wp-block-paragraph\"> Твоя кров може врятувати життя. Стань донором — подаруй шанс на одужання тим, хто цього потребує!</p>\n",
-   "protected": false
-  },
-  "categories": [
-   17
-  ],
-  "_links": {
-   "self": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71855",
-     "targetHints": {
-      "allow": [
-       "GET"
-      ]
-     }
-    }
-   ],
-   "collection": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
-    }
-   ],
-   "about": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
-    }
-   ],
-   "author": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
-    }
-   ],
-   "replies": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=71855"
-    }
-   ],
-   "version-history": [
-    {
-     "count": 2,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71855/revisions"
-    }
-   ],
-   "predecessor-version": [
-    {
-     "id": 71859,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71855/revisions/71859"
-    }
-   ],
-   "wp:featuredmedia": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/71856"
-    }
-   ],
-   "wp:attachment": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=71855"
-    }
-   ],
-   "wp:term": [
-    {
-     "taxonomy": "category",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=71855"
-    },
-    {
-     "taxonomy": "post_tag",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=71855"
-    }
-   ],
-   "curies": [
-    {
-     "name": "wp",
-     "href": "https://api.w.org/{rel}",
-     "templated": true
-    }
-   ]
-  },
-  "_embedded": {
-   "wp:featuredmedia": [
-    {
-     "id": 71856,
-     "date": "2026-10-21T10:48:45",
-     "slug": "857417058_1253700846955990_7034711164602371757_n",
-     "type": "attachment",
-     "link": "https://ukrainska-gromada.gov.ua/community/stan-donorom-krovi-vryatuj-zhyttya.html/attachment/857417058_1253700846955990_7034711164602371757_n",
-     "title": {
-      "rendered": "857417058_1253700846955990_7034711164602371757_n"
-     },
-     "author": 5,
-     "featured_media": 0,
-     "caption": {
-      "rendered": ""
-     },
-     "alt_text": "",
-     "media_type": "image",
-     "mime_type": "image/jpeg",
-     "media_details": {
-      "width": 853,
-      "height": 1280,
-      "file": "2026/10/857417058_1253700846955990_7034711164602371757_n.jpg",
-      "filesize": 220964,
-      "sizes": {
-       "medium": {
-        "file": "857417058_1253700846955990_7034711164602371757_n-200x300.jpg",
-        "width": 200,
-        "height": 300,
-        "filesize": 18838,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71855.jpg"
-       },
-       "large": {
-        "file": "857417058_1253700846955990_7034711164602371757_n-682x1024.jpg",
-        "width": 682,
-        "height": 1024,
-        "filesize": 128195,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71855.jpg"
-       },
-       "thumbnail": {
-        "file": "857417058_1253700846955990_7034711164602371757_n-150x150.jpg",
-        "width": 150,
-        "height": 150,
-        "filesize": 8209,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71855.jpg"
-       },
-       "medium_large": {
-        "file": "857417058_1253700846955990_7034711164602371757_n-768x1152.jpg",
-        "width": 768,
-        "height": 1152,
-        "filesize": 152129,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71855.jpg"
-       },
-       "egovt_portfolio_thumb": {
-        "file": "857417058_1253700846955990_7034711164602371757_n-400x600.jpg",
-        "width": 400,
-        "height": 600,
-        "filesize": 56928,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71855.jpg"
-       },
-       "egovt_blog_thumb": {
-        "file": "857417058_1253700846955990_7034711164602371757_n-373x560.jpg",
-        "width": 373,
-        "height": 560,
-        "filesize": 52117,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71855.jpg"
-       },
-       "full": {
-        "file": "857417058_1253700846955990_7034711164602371757_n.jpg",
-        "width": 853,
-        "height": 1280,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71855.jpg"
-       }
-      },
-      "image_meta": {
-       "aperture": "0",
-       "credit": "",
-       "camera": "",
-       "caption": "",
-       "created_timestamp": "0",
-       "copyright": "",
-       "focal_length": "0",
-       "iso": "0",
-       "shutter_speed": "0",
-       "title": "",
-       "orientation": "0",
-       "keywords": [],
-       "alt": ""
-      }
-     },
-     "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71855.jpg",
-     "_links": {
-      "self": [
-       {
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/71856",
-        "targetHints": {
-         "allow": [
-          "GET"
-         ]
-        }
-       }
-      ],
-      "collection": [
-       {
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media"
-       }
-      ],
-      "about": [
-       {
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/attachment"
-       }
-      ],
-      "author": [
-       {
-        "embeddable": true,
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
-       }
-      ],
-      "replies": [
-       {
-        "embeddable": true,
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=71856"
-       }
-      ],
-      "wp:attached-to": [
-       {
-        "embeddable": true,
-        "post_type": "post",
-        "id": 71855,
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71855"
-       }
-      ],
-      "curies": [
-       {
-        "name": "wp",
-        "href": "https://api.w.org/{rel}",
-        "templated": true
-       }
-      ]
-     }
-    }
-   ]
-  }
- },
- {
-  "id": 71871,
-  "date_gmt": "2026-10-20T07:15:14",
-  "link": "https://ukrainska-gromada.gov.ua/advertisements/ogoloshennya-pro-pochatok-gromadskogo-obgovorennya-zvitu-z-oczinky-vplyvu-na-dovkillya-4.html",
-  "title": {
-   "rendered": "ОГОЛОШЕННЯ про початок громадського обговорення звіту з оцінки впливу на довкілля"
-  },
-  "content": {
-   "rendered": "\n<p class=\"wp-block-paragraph\">Відповідно до частини 2 статті 4 Закону України «Про оцінку впливу на довкілля» Департамент екології та природних ресурсів Київської обласної державної адміністрації (Київської обласної військової адміністрації) надсилає<br>оголошення про початок громадського обговорення звіту з оцінки впливу на довкілля. </p>\n\n\n\n<div data-wp-interactive=\"core/file\" class=\"wp-block-file\"><object data-wp-bind--hidden=\"!state.hasPdfPreview\" hidden class=\"wp-block-file__embed\" data=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/14085b-2.pdf\" type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Вставка 14085b (2)\"></object><a id=\"wp-block-file--media-d5769c1c-7212-49d9-9be7-f8e1c8b3ba99\" href=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/14085b-2.pdf\">14085b (2)</a><a href=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/14085b-2.pdf\" class=\"wp-block-file__button wp-element-button\" download aria-describedby=\"wp-block-file--media-d5769c1c-7212-49d9-9be7-f8e1c8b3ba99\">Завантажити</a></div>\n",
-   "protected": false
-  },
-  "categories": [
-   93
-  ],
-  "_links": {
-   "self": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71871",
-     "targetHints": {
-      "allow": [
-       "GET"
-      ]
-     }
-    }
-   ],
-   "collection": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
-    }
-   ],
-   "about": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
-    }
-   ],
-   "author": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
-    }
-   ],
-   "replies": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=71871"
-    }
-   ],
-   "version-history": [
-    {
-     "count": 1,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71871/revisions"
-    }
-   ],
-   "predecessor-version": [
-    {
-     "id": 71873,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71871/revisions/71873"
-    }
-   ],
-   "wp:attachment": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=71871"
-    }
-   ],
-   "wp:term": [
-    {
-     "taxonomy": "category",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=71871"
-    },
-    {
-     "taxonomy": "post_tag",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=71871"
-    }
-   ],
-   "curies": [
-    {
-     "name": "wp",
-     "href": "https://api.w.org/{rel}",
-     "templated": true
     }
    ]
   }
