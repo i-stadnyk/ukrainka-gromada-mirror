@@ -1,5 +1,455 @@
 [
  {
+  "id": 72002,
+  "date_gmt": "2026-11-21T11:20:00",
+  "link": "https://ukrainska-gromada.gov.ua/community/tryvayut-roboty-spryamovani-na-pokrashhennya-ta-stabilizacziyu-elektropostachannya.html",
+  "title": {
+   "rendered": "Тривають роботи, спрямовані на покращення та стабілізацію електропостачання"
+  },
+  "content": {
+   "rendered": "\n<p class=\"wp-block-paragraph\">У місті Українка тривають роботи, спрямовані на покращення та стабілізацію електропостачання.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Відповідно до офіційних звернень виконавчого комітету Української міської ради до <a href=\"https://www.facebook.com/koda.gov.ua?__cft__[0]=AZinCe0ul9OPC6gD1ud0TJvPz3mlEEBlFO3lcHXnPLrOTWOKxxD509jyej2T28Ma7ad4nA871pXCrC0gVFYF4A4Tv47ES8KYdU0xWmI3XQXVCgFvKpLdvRTJa5JjgCyj3lxV_0ghlVBJwxn486rBsr1IB53csyQaa80IaJnJzAaaIrMIKgKxbepEig0&amp;__tn__=-]K-R\">Київська обласна державна адміністрація</a> та <a href=\"https://www.facebook.com/dtekkrem?__cft__[0]=AZinCe0ul9OPC6gD1ud0TJvPz3mlEEBlFO3lcHXnPLrOTWOKxxD509jyej2T28Ma7ad4nA871pXCrC0gVFYF4A4Tv47ES8KYdU0xWmI3XQXVCgFvKpLdvRTJa5JjgCyj3lxV_0ghlVBJwxn486rBsr1IB53csyQaa80IaJnJzAaaIrMIKgKxbepEig0&amp;__tn__=-]K-R\">ДТЕК Київські регіональні електромережі</a> проводяться заходи з розвантаження потужностей трансформаторних підстанцій.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"796\" src=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/916739855_1311221611150194_6603531401640701616_n-1024x796.jpg\" alt=\"\" class=\"wp-image-72004\" srcset=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/916739855_1311221611150194_6603531401640701616_n-1024x796.jpg 1024w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/916739855_1311221611150194_6603531401640701616_n-300x233.jpg 300w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/916739855_1311221611150194_6603531401640701616_n-767x596.jpg 767w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/916739855_1311221611150194_6603531401640701616_n-600x466.jpg 600w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/916739855_1311221611150194_6603531401640701616_n-560x435.jpg 560w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/916739855_1311221611150194_6603531401640701616_n.jpg 1185w\" sizes=\"auto, (max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Наразі роботи зосереджені на одних із найбільш критичних ділянок міста. </p>\n\n\n\n<p class=\"wp-block-paragraph\">Заходи реалізуються спільно з фахівцями ДТЕК, за участі Київської обласної державної адміністрації, виконавчого комітету міської ради та КП «ПОЖ».</p>\n\n\n\n<p class=\"wp-block-paragraph\">Головна мета &#8211; це зменшити навантаження на електромережі та створити умови для більш стабільного електропостачання мешканців.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   17
+  ],
+  "_links": {
+   "self": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72002",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=72002"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 1,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72002/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 72005,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72002/revisions/72005"
+    }
+   ],
+   "wp:featuredmedia": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/72003"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=72002"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "category",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=72002"
+    },
+    {
+     "taxonomy": "post_tag",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=72002"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  },
+  "_embedded": {
+   "wp:featuredmedia": [
+    {
+     "id": 72003,
+     "date": "2026-11-23T13:23:28",
+     "slug": "915822925_1688841206276912_1077022338175280739_n",
+     "type": "attachment",
+     "link": "https://ukrainska-gromada.gov.ua/community/tryvayut-roboty-spryamovani-na-pokrashhennya-ta-stabilizacziyu-elektropostachannya.html/attachment/915822925_1688841206276912_1077022338175280739_n",
+     "title": {
+      "rendered": "915822925_1688841206276912_1077022338175280739_n"
+     },
+     "author": 5,
+     "featured_media": 0,
+     "caption": {
+      "rendered": ""
+     },
+     "alt_text": "",
+     "media_type": "image",
+     "mime_type": "image/jpeg",
+     "media_details": {
+      "width": 1133,
+      "height": 865,
+      "file": "2026/11/915822925_1688841206276912_1077022338175280739_n.jpg",
+      "filesize": 382353,
+      "sizes": {
+       "medium": {
+        "file": "915822925_1688841206276912_1077022338175280739_n-300x229.jpg",
+        "width": 300,
+        "height": 229,
+        "filesize": 20636,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72002.jpg"
+       },
+       "large": {
+        "file": "915822925_1688841206276912_1077022338175280739_n-1024x782.jpg",
+        "width": 1024,
+        "height": 782,
+        "filesize": 210321,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72002.jpg"
+       },
+       "thumbnail": {
+        "file": "915822925_1688841206276912_1077022338175280739_n-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 7296,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72002.jpg"
+       },
+       "medium_large": {
+        "file": "915822925_1688841206276912_1077022338175280739_n-768x586.jpg",
+        "width": 768,
+        "height": 586,
+        "filesize": 123158,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72002.jpg"
+       },
+       "egovt_portfolio_thumb": {
+        "file": "915822925_1688841206276912_1077022338175280739_n-600x458.jpg",
+        "width": 600,
+        "height": 458,
+        "filesize": 76620,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72002.jpg"
+       },
+       "egovt_blog_thumb": {
+        "file": "915822925_1688841206276912_1077022338175280739_n-560x428.jpg",
+        "width": 560,
+        "height": 428,
+        "filesize": 66833,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72002.jpg"
+       },
+       "full": {
+        "file": "915822925_1688841206276912_1077022338175280739_n.jpg",
+        "width": 1133,
+        "height": 865,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72002.jpg"
+       }
+      },
+      "image_meta": {
+       "aperture": "0",
+       "credit": "",
+       "camera": "",
+       "caption": "",
+       "created_timestamp": "0",
+       "copyright": "",
+       "focal_length": "0",
+       "iso": "0",
+       "shutter_speed": "0",
+       "title": "",
+       "orientation": "0",
+       "keywords": [],
+       "alt": ""
+      }
+     },
+     "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72002.jpg",
+     "_links": {
+      "self": [
+       {
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/72003",
+        "targetHints": {
+         "allow": [
+          "GET"
+         ]
+        }
+       }
+      ],
+      "collection": [
+       {
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media"
+       }
+      ],
+      "about": [
+       {
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/attachment"
+       }
+      ],
+      "author": [
+       {
+        "embeddable": true,
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
+       }
+      ],
+      "replies": [
+       {
+        "embeddable": true,
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=72003"
+       }
+      ],
+      "wp:attached-to": [
+       {
+        "embeddable": true,
+        "post_type": "post",
+        "id": 72002,
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72002"
+       }
+      ],
+      "curies": [
+       {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
+  "id": 71998,
+  "date_gmt": "2026-11-20T14:15:00",
+  "link": "https://ukrainska-gromada.gov.ua/community/20-lystopada-den-zahystu-ditej.html",
+  "title": {
+   "rendered": "20 листопада &#8211;  День захисту дітей!"
+  },
+  "content": {
+   "rendered": "\n<p class=\"wp-block-paragraph\">Цьогоріч у нашій громаді цей день минає без святкових заходів. Складна ситуація з теплопостачанням, яка охопила все місто, зокрема школи та дитячі садочки, вимагає від усіх нас зосередитися на вирішенні нагальних питань.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Водночас важливо не залишати без уваги дітей, які потребують особливої підтримки.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"781\" height=\"1024\" src=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/916614993_2202187511175011_6335031769167966756_n-781x1024.jpg\" alt=\"\" class=\"wp-image-72000\" srcset=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/916614993_2202187511175011_6335031769167966756_n-781x1024.jpg 781w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/916614993_2202187511175011_6335031769167966756_n-229x300.jpg 229w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/916614993_2202187511175011_6335031769167966756_n-767x1006.jpg 767w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/916614993_2202187511175011_6335031769167966756_n-458x600.jpg 458w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/916614993_2202187511175011_6335031769167966756_n-427x560.jpg 427w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/916614993_2202187511175011_6335031769167966756_n.jpg 823w\" sizes=\"auto, (max-width: 781px) 100vw, 781px\" /></figure>\n\n\n\n<p class=\"wp-block-paragraph\">У межах цільової програми «Соціальна підтримка вразливих категорій населення Української міської територіальної громади на 2024–2026 роки» працівники &#8220;Центру надання соціальних послуг&#8221; Української міської ради підготували 28 дитячих «наборів тепла» підопічним сім&#8217;ям, у яких виховуються діти-сироти та діти, позбавлені батьківського піклування.</p>\n\n\n\n<p class=\"wp-block-paragraph\">До наборів увійшли термос та акумуляторний світильник. Це практичні речі, які стануть у пригоді родинам у нинішніх умовах.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Їх передадуть родинам найближчим часом.</p>\n",
+   "protected": false
+  },
+  "categories": [
+   17
+  ],
+  "_links": {
+   "self": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71998",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=71998"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 1,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71998/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 72001,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71998/revisions/72001"
+    }
+   ],
+   "wp:featuredmedia": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/71999"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=71998"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "category",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=71998"
+    },
+    {
+     "taxonomy": "post_tag",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=71998"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  },
+  "_embedded": {
+   "wp:featuredmedia": [
+    {
+     "id": 71999,
+     "date": "2026-11-23T13:17:22",
+     "slug": "zahyst-ditej-20",
+     "type": "attachment",
+     "link": "https://ukrainska-gromada.gov.ua/community/20-lystopada-den-zahystu-ditej.html/attachment/zahyst-ditej-20",
+     "title": {
+      "rendered": "захист дітей 20"
+     },
+     "author": 5,
+     "featured_media": 0,
+     "caption": {
+      "rendered": ""
+     },
+     "alt_text": "",
+     "media_type": "image",
+     "mime_type": "image/jpeg",
+     "media_details": {
+      "width": 350,
+      "height": 230,
+      "file": "2026/11/zahyst-ditej-20.jpg",
+      "filesize": 8061,
+      "sizes": {
+       "medium": {
+        "file": "zahyst-ditej-20-300x197.jpg",
+        "width": 300,
+        "height": 197,
+        "filesize": 9145,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71998.jpg"
+       },
+       "thumbnail": {
+        "file": "zahyst-ditej-20-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 5364,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71998.jpg"
+       },
+       "full": {
+        "file": "zahyst-ditej-20.jpg",
+        "width": 350,
+        "height": 230,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71998.jpg"
+       }
+      },
+      "image_meta": {
+       "aperture": "0",
+       "credit": "",
+       "camera": "",
+       "caption": "",
+       "created_timestamp": "0",
+       "copyright": "",
+       "focal_length": "0",
+       "iso": "0",
+       "shutter_speed": "0",
+       "title": "",
+       "orientation": "0",
+       "keywords": [],
+       "alt": ""
+      }
+     },
+     "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71998.jpg",
+     "_links": {
+      "self": [
+       {
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/71999",
+        "targetHints": {
+         "allow": [
+          "GET"
+         ]
+        }
+       }
+      ],
+      "collection": [
+       {
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media"
+       }
+      ],
+      "about": [
+       {
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/attachment"
+       }
+      ],
+      "author": [
+       {
+        "embeddable": true,
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
+       }
+      ],
+      "replies": [
+       {
+        "embeddable": true,
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=71999"
+       }
+      ],
+      "wp:attached-to": [
+       {
+        "embeddable": true,
+        "post_type": "post",
+        "id": 71998,
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71998"
+       }
+      ],
+      "curies": [
+       {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
   "id": 71989,
   "date_gmt": "2026-11-18T06:56:13",
   "link": "https://ukrainska-gromada.gov.ua/community/zyma-bez-czentralizovanogo-opalennya-yakyh-zahodiv-vzhyvayetsya.html",
@@ -6001,340 +6451,6 @@
      "name": "wp",
      "href": "https://api.w.org/{rel}",
      "templated": true
-    }
-   ]
-  }
- },
- {
-  "id": 71849,
-  "date_gmt": "2026-10-20T07:14:51",
-  "link": "https://ukrainska-gromada.gov.ua/advertisements/richnyj-plan-zdijsnennya-planovyh-perevirok-viddilom-arhitekturno-budivelnogo-kontrolyu-na-2027-j-rik.html",
-  "title": {
-   "rendered": "Річний план здійснення планових перевірок відділом архітектурно-будівельного контролю на 2027-й рік"
-  },
-  "content": {
-   "rendered": "\n<div data-wp-interactive=\"core/file\" class=\"wp-block-file\"><object data-wp-bind--hidden=\"!state.hasPdfPreview\" hidden class=\"wp-block-file__embed\" data=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/dokument-001-60-1.pdf\" type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Вставка ДОКУМЕНТ-001 (60)\"></object><a id=\"wp-block-file--media-65f40202-c95f-44f1-b7a2-b75c81383bb2\" href=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/dokument-001-60-1.pdf\">ДОКУМЕНТ-001 (60)</a><a href=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/dokument-001-60-1.pdf\" class=\"wp-block-file__button wp-element-button\" download aria-describedby=\"wp-block-file--media-65f40202-c95f-44f1-b7a2-b75c81383bb2\">Завантажити</a></div>\n",
-   "protected": false
-  },
-  "categories": [
-   93
-  ],
-  "_links": {
-   "self": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71849",
-     "targetHints": {
-      "allow": [
-       "GET"
-      ]
-     }
-    }
-   ],
-   "collection": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
-    }
-   ],
-   "about": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
-    }
-   ],
-   "author": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
-    }
-   ],
-   "replies": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=71849"
-    }
-   ],
-   "version-history": [
-    {
-     "count": 1,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71849/revisions"
-    }
-   ],
-   "predecessor-version": [
-    {
-     "id": 71852,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71849/revisions/71852"
-    }
-   ],
-   "wp:attachment": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=71849"
-    }
-   ],
-   "wp:term": [
-    {
-     "taxonomy": "category",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=71849"
-    },
-    {
-     "taxonomy": "post_tag",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=71849"
-    }
-   ],
-   "curies": [
-    {
-     "name": "wp",
-     "href": "https://api.w.org/{rel}",
-     "templated": true
-    }
-   ]
-  }
- },
- {
-  "id": 71843,
-  "date_gmt": "2026-10-19T10:57:14",
-  "link": "https://ukrainska-gromada.gov.ua/community/bronzovyj-triumf-u-kyyevi-nashi-sportsmeny-u-trijczi-najsylnishyh.html",
-  "title": {
-   "rendered": "Бронзовий тріумф у Києві! Наші спортсмени — у трійці найсильніших!"
-  },
-  "content": {
-   "rendered": "\n<p class=\"wp-block-paragraph\">17 жовтня 2026 року у столиці відбувся масштабний та видовищний Відкритий турнір з Таеквон-до ІТФ «POWER PLACE»! </p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"768\" height=\"1024\" src=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/853483077_122188349468770926_249409148105022904_n-768x1024-1.jpg\" alt=\"\" class=\"wp-image-71845\" srcset=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/853483077_122188349468770926_249409148105022904_n-768x1024-1.jpg 768w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/853483077_122188349468770926_249409148105022904_n-225x300.jpg 225w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/853483077_122188349468770926_249409148105022904_n-1152x1536.jpg 1152w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/853483077_122188349468770926_249409148105022904_n-450x600.jpg 450w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/853483077_122188349468770926_249409148105022904_n-420x560.jpg 420w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/853483077_122188349468770926_249409148105022904_n.jpg 1200w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" /></figure>\n\n\n\n<p class=\"wp-block-paragraph\">​Турнір зібрав вражаючу конкуренцію:</p>\n\n\n\n<p class=\"wp-block-paragraph\">10 команд з Києва, Житомирської та Київської областей.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Понад 450 найсильніших учасників.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"768\" height=\"1024\" src=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/854711256_122188349552770926_6853178782906086467_n-768x1024-1.jpg\" alt=\"\" class=\"wp-image-71846\" srcset=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/854711256_122188349552770926_6853178782906086467_n-768x1024-1.jpg 768w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/854711256_122188349552770926_6853178782906086467_n-225x300.jpg 225w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/854711256_122188349552770926_6853178782906086467_n-1152x1536.jpg 1152w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/854711256_122188349552770926_6853178782906086467_n-450x600.jpg 450w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/854711256_122188349552770926_6853178782906086467_n-420x560.jpg 420w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/10/854711256_122188349552770926_6853178782906086467_n.jpg 1200w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" /></figure>\n\n\n\n<p class=\"wp-block-paragraph\">​Вихованці КДЮСШ у складі збірної команди Київської області продемонстрували залізну волю, високу майстерність та справжній командний дух! За підсумками запеклих поєдинків наша команда виборола 3 загальнокомандне місце! <img loading=\"lazy\" decoding=\"async\" height=\"16\" width=\"16\" alt=\"🏆\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tbe/1/16/1f3c6.png\"><img loading=\"lazy\" decoding=\"async\" height=\"16\" width=\"16\" alt=\"🎉\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t8c/1/16/1f389.png\"></p>\n\n\n\n<p class=\"wp-block-paragraph\">​ Наші здобутки:</p>\n\n\n\n<p class=\"wp-block-paragraph\"> I місце &#8211; 6 медалей</p>\n\n\n\n<p class=\"wp-block-paragraph\"> II місце &#8211; 8 медалей</p>\n\n\n\n<p class=\"wp-block-paragraph\"> III місце &#8211; 12 медалей</p>\n\n\n\n<p class=\"wp-block-paragraph\">​Щиро вітаємо наших вихованців та їхніх наставників!</p>\n\n\n\n<p class=\"wp-block-paragraph\">Цей успіх — результат щоденної важкої праці та наполегливості тренерів-викладачів: Максима Ватрича та  Анастасії Лимар.</p>\n\n\n\n<p class=\"wp-block-paragraph\">​Дякуємо тренерам за віру в дітей та якісну підготовку, а батькам — за підтримку!</p>\n\n\n\n<p class=\"wp-block-paragraph\">​Дякуємо Збройним Силам України за можливість тренуватися та перемагати!</p>\n\n\n\n<p class=\"has-text-align-right wp-block-paragraph\"><strong>Комплексна ДЮСШ м. Українка</strong></p>\n",
-   "protected": false
-  },
-  "categories": [
-   17
-  ],
-  "_links": {
-   "self": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71843",
-     "targetHints": {
-      "allow": [
-       "GET"
-      ]
-     }
-    }
-   ],
-   "collection": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
-    }
-   ],
-   "about": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
-    }
-   ],
-   "author": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
-    }
-   ],
-   "replies": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=71843"
-    }
-   ],
-   "version-history": [
-    {
-     "count": 1,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71843/revisions"
-    }
-   ],
-   "predecessor-version": [
-    {
-     "id": 71847,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71843/revisions/71847"
-    }
-   ],
-   "wp:featuredmedia": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/71844"
-    }
-   ],
-   "wp:attachment": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=71843"
-    }
-   ],
-   "wp:term": [
-    {
-     "taxonomy": "category",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=71843"
-    },
-    {
-     "taxonomy": "post_tag",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=71843"
-    }
-   ],
-   "curies": [
-    {
-     "name": "wp",
-     "href": "https://api.w.org/{rel}",
-     "templated": true
-    }
-   ]
-  },
-  "_embedded": {
-   "wp:featuredmedia": [
-    {
-     "id": 71844,
-     "date": "2026-10-19T13:56:18",
-     "slug": "854629199_122188349594770926_3560418777566038626_n",
-     "type": "attachment",
-     "link": "https://ukrainska-gromada.gov.ua/community/bronzovyj-triumf-u-kyyevi-nashi-sportsmeny-u-trijczi-najsylnishyh.html/attachment/854629199_122188349594770926_3560418777566038626_n",
-     "title": {
-      "rendered": "854629199_122188349594770926_3560418777566038626_n"
-     },
-     "author": 5,
-     "featured_media": 0,
-     "caption": {
-      "rendered": ""
-     },
-     "alt_text": "",
-     "media_type": "image",
-     "mime_type": "image/jpeg",
-     "media_details": {
-      "width": 1600,
-      "height": 1200,
-      "file": "2026/10/854629199_122188349594770926_3560418777566038626_n.jpg",
-      "filesize": 291643,
-      "sizes": {
-       "medium": {
-        "file": "854629199_122188349594770926_3560418777566038626_n-300x225.jpg",
-        "width": 300,
-        "height": 225,
-        "filesize": 23826,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71843.jpg"
-       },
-       "large": {
-        "file": "854629199_122188349594770926_3560418777566038626_n-1024x768.jpg",
-        "width": 1024,
-        "height": 768,
-        "filesize": 191379,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71843.jpg"
-       },
-       "thumbnail": {
-        "file": "854629199_122188349594770926_3560418777566038626_n-150x150.jpg",
-        "width": 150,
-        "height": 150,
-        "filesize": 9586,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71843.jpg"
-       },
-       "medium_large": {
-        "file": "854629199_122188349594770926_3560418777566038626_n-768x576.jpg",
-        "width": 768,
-        "height": 576,
-        "filesize": 116007,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71843.jpg"
-       },
-       "1536x1536": {
-        "file": "854629199_122188349594770926_3560418777566038626_n-1536x1152.jpg",
-        "width": 1536,
-        "height": 1152,
-        "filesize": 378435,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71843.jpg"
-       },
-       "egovt_portfolio_thumb": {
-        "file": "854629199_122188349594770926_3560418777566038626_n-600x450.jpg",
-        "width": 600,
-        "height": 450,
-        "filesize": 75710,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71843.jpg"
-       },
-       "egovt_blog_thumb": {
-        "file": "854629199_122188349594770926_3560418777566038626_n-560x420.jpg",
-        "width": 560,
-        "height": 420,
-        "filesize": 67152,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71843.jpg"
-       },
-       "full": {
-        "file": "854629199_122188349594770926_3560418777566038626_n.jpg",
-        "width": 1600,
-        "height": 1200,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71843.jpg"
-       }
-      },
-      "image_meta": {
-       "aperture": "0",
-       "credit": "",
-       "camera": "",
-       "caption": "",
-       "created_timestamp": "0",
-       "copyright": "",
-       "focal_length": "0",
-       "iso": "0",
-       "shutter_speed": "0",
-       "title": "",
-       "orientation": "0",
-       "keywords": [],
-       "alt": ""
-      }
-     },
-     "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71843.jpg",
-     "_links": {
-      "self": [
-       {
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/71844",
-        "targetHints": {
-         "allow": [
-          "GET"
-         ]
-        }
-       }
-      ],
-      "collection": [
-       {
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media"
-       }
-      ],
-      "about": [
-       {
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/attachment"
-       }
-      ],
-      "author": [
-       {
-        "embeddable": true,
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
-       }
-      ],
-      "replies": [
-       {
-        "embeddable": true,
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=71844"
-       }
-      ],
-      "wp:attached-to": [
-       {
-        "embeddable": true,
-        "post_type": "post",
-        "id": 71843,
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71843"
-       }
-      ],
-      "curies": [
-       {
-        "name": "wp",
-        "href": "https://api.w.org/{rel}",
-        "templated": true
-       }
-      ]
-     }
     }
    ]
   }
