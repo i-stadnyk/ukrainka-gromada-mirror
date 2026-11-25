@@ -1,5 +1,246 @@
 [
  {
+  "id": 72035,
+  "date_gmt": "2026-11-25T11:45:41",
+  "link": "https://ukrainska-gromada.gov.ua/community/vytyag-pro-nesudymist-z-apostylem-teper-na-portali-diya.html",
+  "title": {
+   "rendered": "Витяг про несудимість з апостилем — тепер на порталі Дія"
+  },
+  "content": {
+   "rendered": "\n<p class=\"wp-block-paragraph\">Потрібен документ для працевлаштування, навчання чи оформлення справ за кордоном? Раніше таку можливість ми відкрили для користувачів застосунку Дія. Тепер замовити витяг про несудимість з апостилем доступно і на порталі Дія.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Апостиль підтверджує справжність підпису на документі для використання в країнах — учасницях Гаазької конвенції. Тож не потрібно спочатку замовляти витяг, а потім окремо шукати, де його засвідчити.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Як це зробити на порталі:</p>\n\n\n\n<p class=\"wp-block-paragraph\"><img loading=\"lazy\" decoding=\"async\" height=\"16\" width=\"16\" alt=\"1️⃣\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t7a/1/16/31_20e3.png\">Авторизуйтеся на порталі Дія.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><img loading=\"lazy\" decoding=\"async\" height=\"16\" width=\"16\" alt=\"2️⃣\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/t99/1/16/32_20e3.png\">Перейдіть до розділу «Довідки та витяги».</p>\n\n\n\n<p class=\"wp-block-paragraph\"><img loading=\"lazy\" decoding=\"async\" height=\"16\" width=\"16\" alt=\"3️⃣\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/tb8/1/16/33_20e3.png\">Оберіть послугу «Витяг про несудимість».</p>\n\n\n\n<p class=\"wp-block-paragraph\"><img loading=\"lazy\" decoding=\"async\" height=\"16\" width=\"16\" alt=\"4️⃣\" src=\"https://static.xx.fbcdn.net/images/emoji.php/v9/td7/1/16/34_20e3.png\">Заповніть коротку форму та надішліть заяву.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Або ж отримати послугу через онлайн-сервіс МВС «Єдине вікно».</p>\n\n\n\n<p class=\"wp-block-paragraph\">Також тестово запускаємо послугу в ЦНАПах 10 регіонів. Оформити витяг з апостилем можна буде в Миколаєві, Сумах, Запоріжжі, Херсоні, Одесі,</p>\n\n\n\n<p class=\"wp-block-paragraph\">Чернігові, Львові, Івано-Франківську, Харкові та Дніпрі. Невдовзі послуга буде доступна в решті відділень України.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Обирайте зручний спосіб і не відкладайте важливі справи.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Сервіс реалізовано Міністерством цифрової трансформації спільно з Міністерством внутрішніх справ за підтримки Європейського Союзу в межах проєкту EU4DigitalUA та ДП «Інфотех».</p>\n\n\n\n<p class=\"has-text-align-right wp-block-paragraph\"><strong>Джерело: портал ДІЯ</strong></p>\n\n\n\n<p class=\"wp-block-paragraph\"></p>\n",
+   "protected": false
+  },
+  "categories": [
+   17
+  ],
+  "_links": {
+   "self": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72035",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=72035"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 1,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72035/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 72037,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72035/revisions/72037"
+    }
+   ],
+   "wp:featuredmedia": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/72036"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=72035"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "category",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=72035"
+    },
+    {
+     "taxonomy": "post_tag",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=72035"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  },
+  "_embedded": {
+   "wp:featuredmedia": [
+    {
+     "id": 72036,
+     "date": "2026-11-25T13:45:32",
+     "slug": "928229189_2596681787479169_3400557646473046069_n",
+     "type": "attachment",
+     "link": "https://ukrainska-gromada.gov.ua/community/vytyag-pro-nesudymist-z-apostylem-teper-na-portali-diya.html/attachment/928229189_2596681787479169_3400557646473046069_n",
+     "title": {
+      "rendered": "928229189_2596681787479169_3400557646473046069_n"
+     },
+     "author": 5,
+     "featured_media": 0,
+     "caption": {
+      "rendered": ""
+     },
+     "alt_text": "",
+     "media_type": "image",
+     "mime_type": "image/jpeg",
+     "media_details": {
+      "width": 1275,
+      "height": 928,
+      "file": "2026/11/928229189_2596681787479169_3400557646473046069_n.jpg",
+      "filesize": 119903,
+      "sizes": {
+       "medium": {
+        "file": "928229189_2596681787479169_3400557646473046069_n-300x218.jpg",
+        "width": 300,
+        "height": 218,
+        "filesize": 10955,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72035.jpg"
+       },
+       "large": {
+        "file": "928229189_2596681787479169_3400557646473046069_n-1024x745.jpg",
+        "width": 1024,
+        "height": 745,
+        "filesize": 67590,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72035.jpg"
+       },
+       "thumbnail": {
+        "file": "928229189_2596681787479169_3400557646473046069_n-150x150.jpg",
+        "width": 150,
+        "height": 150,
+        "filesize": 4685,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72035.jpg"
+       },
+       "medium_large": {
+        "file": "928229189_2596681787479169_3400557646473046069_n-768x559.jpg",
+        "width": 768,
+        "height": 559,
+        "filesize": 43430,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72035.jpg"
+       },
+       "egovt_portfolio_thumb": {
+        "file": "928229189_2596681787479169_3400557646473046069_n-600x437.jpg",
+        "width": 600,
+        "height": 437,
+        "filesize": 31094,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72035.jpg"
+       },
+       "egovt_blog_thumb": {
+        "file": "928229189_2596681787479169_3400557646473046069_n-560x408.jpg",
+        "width": 560,
+        "height": 408,
+        "filesize": 27128,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72035.jpg"
+       },
+       "full": {
+        "file": "928229189_2596681787479169_3400557646473046069_n.jpg",
+        "width": 1275,
+        "height": 928,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72035.jpg"
+       }
+      },
+      "image_meta": {
+       "aperture": "0",
+       "credit": "",
+       "camera": "",
+       "caption": "",
+       "created_timestamp": "0",
+       "copyright": "",
+       "focal_length": "0",
+       "iso": "0",
+       "shutter_speed": "0",
+       "title": "",
+       "orientation": "0",
+       "keywords": [],
+       "alt": ""
+      }
+     },
+     "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72035.jpg",
+     "_links": {
+      "self": [
+       {
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/72036",
+        "targetHints": {
+         "allow": [
+          "GET"
+         ]
+        }
+       }
+      ],
+      "collection": [
+       {
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media"
+       }
+      ],
+      "about": [
+       {
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/attachment"
+       }
+      ],
+      "author": [
+       {
+        "embeddable": true,
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
+       }
+      ],
+      "replies": [
+       {
+        "embeddable": true,
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=72036"
+       }
+      ],
+      "wp:attached-to": [
+       {
+        "embeddable": true,
+        "post_type": "post",
+        "id": 72035,
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72035"
+       }
+      ],
+      "curies": [
+       {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
   "id": 72024,
   "date_gmt": "2026-11-23T17:57:14",
   "link": "https://ukrainska-gromada.gov.ua/goverment/uvaga-v-ukrayinskij-miskij-terytorialnij-gromadi-zaprovadzhuyetsya-speczialnyj-rezhym-svitlomaskuvannya.html",
@@ -6029,247 +6270,6 @@
      "name": "wp",
      "href": "https://api.w.org/{rel}",
      "templated": true
-    }
-   ]
-  }
- },
- {
-  "id": 71887,
-  "date_gmt": "2026-10-30T11:02:00",
-  "link": "https://ukrainska-gromada.gov.ua/community/predstavleno-novogo-dyrektora-akademichnogo-liczeyu-%e2%84%961.html",
-  "title": {
-   "rendered": "Представлено нового директора Академічного ліцею №1"
-  },
-  "content": {
-   "rendered": "\n<p class=\"wp-block-paragraph\">Сьогодні секретар Української міської ради Катерина Проценко та керівниця Управління гуманітарного розвитку Оксана Інкіна привітали нового директора Академічного ліцею № 1 Стичінського Олександра Францевича з призначенням на посаду.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"723\" src=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/868405859_4735272293463866_3073021869755897145_n-1024x723.jpg\" alt=\"\" class=\"wp-image-71889\" srcset=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/868405859_4735272293463866_3073021869755897145_n-1024x723.jpg 1024w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/868405859_4735272293463866_3073021869755897145_n-300x212.jpg 300w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/868405859_4735272293463866_3073021869755897145_n-767x542.jpg 767w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/868405859_4735272293463866_3073021869755897145_n-560x396.jpg 560w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/868405859_4735272293463866_3073021869755897145_n-600x424.jpg 600w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/868405859_4735272293463866_3073021869755897145_n.jpg 1280w\" sizes=\"auto, (max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Символічним моментом зустрічі стало вручення печатки ліцею. Її передала новому керівнику заступниця директора Шептицька Людмила Петрівна, побажавши успіхів у подальшій роботі.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"1024\" height=\"512\" src=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/864655246_2558578837939519_8025166411263354889_n-1024x512.jpg\" alt=\"\" class=\"wp-image-71890\" srcset=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/864655246_2558578837939519_8025166411263354889_n-1024x512.jpg 1024w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/864655246_2558578837939519_8025166411263354889_n-300x150.jpg 300w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/864655246_2558578837939519_8025166411263354889_n-767x383.jpg 767w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/864655246_2558578837939519_8025166411263354889_n-600x300.jpg 600w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/864655246_2558578837939519_8025166411263354889_n-560x280.jpg 560w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/864655246_2558578837939519_8025166411263354889_n.jpg 1247w\" sizes=\"auto, (max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Попереду нові завдання, відповідальні рішення та щоденна праця задля розвитку закладу освіти.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Бажаємо новому директору професійних успіхів, мудрих рішень, підтримки колективу, нових можливостей для учнів і педагогів. Нехай у ліцеї панують взаєморозуміння, довіра та прагнення до знань, а всі задуми втілюються в життя!</p>\n",
-   "protected": false
-  },
-  "categories": [
-   17
-  ],
-  "_links": {
-   "self": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71887",
-     "targetHints": {
-      "allow": [
-       "GET"
-      ]
-     }
-    }
-   ],
-   "collection": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
-    }
-   ],
-   "about": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
-    }
-   ],
-   "author": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
-    }
-   ],
-   "replies": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=71887"
-    }
-   ],
-   "version-history": [
-    {
-     "count": 1,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71887/revisions"
-    }
-   ],
-   "predecessor-version": [
-    {
-     "id": 71891,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71887/revisions/71891"
-    }
-   ],
-   "wp:featuredmedia": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/71888"
-    }
-   ],
-   "wp:attachment": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=71887"
-    }
-   ],
-   "wp:term": [
-    {
-     "taxonomy": "category",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=71887"
-    },
-    {
-     "taxonomy": "post_tag",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=71887"
-    }
-   ],
-   "curies": [
-    {
-     "name": "wp",
-     "href": "https://api.w.org/{rel}",
-     "templated": true
-    }
-   ]
-  },
-  "_embedded": {
-   "wp:featuredmedia": [
-    {
-     "id": 71888,
-     "date": "2026-11-02T09:06:26",
-     "slug": "866379813_2643941942735081_1240062317972965427_n",
-     "type": "attachment",
-     "link": "https://ukrainska-gromada.gov.ua/community/predstavleno-novogo-dyrektora-akademichnogo-liczeyu-%e2%84%961.html/attachment/866379813_2643941942735081_1240062317972965427_n",
-     "title": {
-      "rendered": "866379813_2643941942735081_1240062317972965427_n"
-     },
-     "author": 5,
-     "featured_media": 0,
-     "caption": {
-      "rendered": ""
-     },
-     "alt_text": "",
-     "media_type": "image",
-     "mime_type": "image/jpeg",
-     "media_details": {
-      "width": 1280,
-      "height": 835,
-      "file": "2026/11/866379813_2643941942735081_1240062317972965427_n.jpg",
-      "filesize": 214520,
-      "sizes": {
-       "medium": {
-        "file": "866379813_2643941942735081_1240062317972965427_n-300x196.jpg",
-        "width": 300,
-        "height": 196,
-        "filesize": 13337,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71887.jpg"
-       },
-       "large": {
-        "file": "866379813_2643941942735081_1240062317972965427_n-1024x668.jpg",
-        "width": 1024,
-        "height": 668,
-        "filesize": 101076,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71887.jpg"
-       },
-       "thumbnail": {
-        "file": "866379813_2643941942735081_1240062317972965427_n-150x150.jpg",
-        "width": 150,
-        "height": 150,
-        "filesize": 5660,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71887.jpg"
-       },
-       "medium_large": {
-        "file": "866379813_2643941942735081_1240062317972965427_n-768x501.jpg",
-        "width": 768,
-        "height": 501,
-        "filesize": 62710,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71887.jpg"
-       },
-       "egovt_portfolio_thumb": {
-        "file": "866379813_2643941942735081_1240062317972965427_n-600x391.jpg",
-        "width": 600,
-        "height": 391,
-        "filesize": 41046,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71887.jpg"
-       },
-       "egovt_blog_thumb": {
-        "file": "866379813_2643941942735081_1240062317972965427_n-560x365.jpg",
-        "width": 560,
-        "height": 365,
-        "filesize": 36551,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71887.jpg"
-       },
-       "full": {
-        "file": "866379813_2643941942735081_1240062317972965427_n.jpg",
-        "width": 1280,
-        "height": 835,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71887.jpg"
-       }
-      },
-      "image_meta": {
-       "aperture": "0",
-       "credit": "",
-       "camera": "",
-       "caption": "",
-       "created_timestamp": "0",
-       "copyright": "",
-       "focal_length": "0",
-       "iso": "0",
-       "shutter_speed": "0",
-       "title": "",
-       "orientation": "0",
-       "keywords": [],
-       "alt": ""
-      }
-     },
-     "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71887.jpg",
-     "_links": {
-      "self": [
-       {
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/71888",
-        "targetHints": {
-         "allow": [
-          "GET"
-         ]
-        }
-       }
-      ],
-      "collection": [
-       {
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media"
-       }
-      ],
-      "about": [
-       {
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/attachment"
-       }
-      ],
-      "author": [
-       {
-        "embeddable": true,
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
-       }
-      ],
-      "replies": [
-       {
-        "embeddable": true,
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=71888"
-       }
-      ],
-      "wp:attached-to": [
-       {
-        "embeddable": true,
-        "post_type": "post",
-        "id": 71887,
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71887"
-       }
-      ],
-      "curies": [
-       {
-        "name": "wp",
-        "href": "https://api.w.org/{rel}",
-        "templated": true
-       }
-      ]
-     }
     }
    ]
   }
