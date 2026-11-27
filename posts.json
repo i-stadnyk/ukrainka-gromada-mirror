@@ -1,5 +1,238 @@
 [
  {
+  "id": 72065,
+  "date_gmt": "2026-11-27T12:15:13",
+  "link": "https://ukrainska-gromada.gov.ua/goverment/uvaga-vazhlyvo.html",
+  "title": {
+   "rendered": "Увага! ВАЖЛИВО!"
+  },
+  "content": {
+   "rendered": "\n<p class=\"wp-block-paragraph\">Працівники КП «ПОЖ УМР» аналізують стан житлових будинків та здійснюють перевірку вентиляційних отворів, технічних поверхів і підвальних приміщень.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Звертаємося до мешканців багатоповерхівок із проханням допомогти у наданні інформації щодо стану квартир, у яких тимчасово ніхто не проживає (чи немає відчинених вікон/балконів ), а також адрес, де ще не відновлені віконні конструкції, пошкоджені вибуховою хвилею.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Якщо вам відомо про такі випадки, терміново повідомте КП «ПОЖ УМР»:</p>\n\n\n\n<p class=\"has-medium-font-size wp-block-paragraph\">098-893-23-13;<br>095-184-84-98</p>\n\n\n\n<p class=\"wp-block-paragraph\">Просимо звернути увагу:</p>\n\n\n\n<p class=\"wp-block-paragraph\">Виконавчим комітетом Української міської ради, ПОЖ, спільно з Національною поліцією України узгоджено порядок доступу до покинутих квартир, у разі виявлення надзвичайної ситуації, яка може загрожувати руйнуванню мереж багатоповерхових будинків!</p>\n\n\n\n<p class=\"wp-block-paragraph\">Просимо розповсюдити.<br>Ця інформація вкрай важлива для своєчасного усунення проблем та недопущення промерзання внутрішньобудинкових мереж.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Дякуємо за сприяння!</p>\n",
+   "protected": false
+  },
+  "categories": [
+   20
+  ],
+  "_links": {
+   "self": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72065",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/1"
+    }
+   ],
+   "replies": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=72065"
+    }
+   ],
+   "version-history": [
+    {
+     "count": 1,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72065/revisions"
+    }
+   ],
+   "predecessor-version": [
+    {
+     "id": 72067,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72065/revisions/72067"
+    }
+   ],
+   "wp:featuredmedia": [
+    {
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/72066"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=72065"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "category",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=72065"
+    },
+    {
+     "taxonomy": "post_tag",
+     "embeddable": true,
+     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=72065"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  },
+  "_embedded": {
+   "wp:featuredmedia": [
+    {
+     "id": 72066,
+     "date": "2026-11-27T14:13:31",
+     "slug": "photo_2026-11-27_14-09-23",
+     "type": "attachment",
+     "link": "https://ukrainska-gromada.gov.ua/goverment/uvaga-vazhlyvo.html/attachment/photo_2026-11-27_14-09-23",
+     "title": {
+      "rendered": "photo_2026-11-27_14-09-23"
+     },
+     "author": 1,
+     "featured_media": 0,
+     "caption": {
+      "rendered": ""
+     },
+     "alt_text": "",
+     "media_type": "image",
+     "mime_type": "image/jpeg",
+     "media_details": {
+      "width": 900,
+      "height": 690,
+      "file": "2026/11/photo_2026-11-27_14-09-23.jpg",
+      "filesize": 77940,
+      "sizes": {
+       "thumbnail": {
+        "width": 150,
+        "height": 150,
+        "file": "photo_2026-11-27_14-09-23-150x150.jpg",
+        "filesize": 7244,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72065.jpg"
+       },
+       "medium": {
+        "width": 300,
+        "height": 230,
+        "file": "photo_2026-11-27_14-09-23-300x230.jpg",
+        "filesize": 19203,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72065.jpg"
+       },
+       "medium_large": {
+        "width": 767,
+        "height": 588,
+        "file": "photo_2026-11-27_14-09-23-767x588.jpg",
+        "filesize": 84218,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72065.jpg"
+       },
+       "egovt_blog_thumb": {
+        "width": 560,
+        "height": 429,
+        "file": "photo_2026-11-27_14-09-23-560x429.jpg",
+        "filesize": 51950,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72065.jpg"
+       },
+       "egovt_portfolio_thumb": {
+        "width": 600,
+        "height": 460,
+        "file": "photo_2026-11-27_14-09-23-600x460.jpg",
+        "filesize": 57552,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72065.jpg"
+       },
+       "full": {
+        "file": "photo_2026-11-27_14-09-23.jpg",
+        "width": 900,
+        "height": 690,
+        "mime_type": "image/jpeg",
+        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72065.jpg"
+       }
+      },
+      "image_meta": {
+       "aperture": "0",
+       "credit": "",
+       "camera": "",
+       "caption": "",
+       "created_timestamp": "0",
+       "copyright": "",
+       "focal_length": "0",
+       "iso": "0",
+       "shutter_speed": "0",
+       "title": "",
+       "orientation": "0",
+       "keywords": [],
+       "alt": ""
+      }
+     },
+     "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/72065.jpg",
+     "_links": {
+      "self": [
+       {
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/72066",
+        "targetHints": {
+         "allow": [
+          "GET"
+         ]
+        }
+       }
+      ],
+      "collection": [
+       {
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media"
+       }
+      ],
+      "about": [
+       {
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/attachment"
+       }
+      ],
+      "author": [
+       {
+        "embeddable": true,
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/1"
+       }
+      ],
+      "replies": [
+       {
+        "embeddable": true,
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=72066"
+       }
+      ],
+      "wp:attached-to": [
+       {
+        "embeddable": true,
+        "post_type": "post",
+        "id": 72065,
+        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/72065"
+       }
+      ],
+      "curies": [
+       {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+       }
+      ]
+     }
+    }
+   ]
+  }
+ },
+ {
   "id": 72054,
   "date_gmt": "2026-11-25T13:22:09",
   "link": "https://ukrainska-gromada.gov.ua/goverment/povidomlennya-pro-provedennya-gromadskyh-sluhan-shhodo-proyektu-statutu-ukrayinskoyi-miskoyi-terytorialnoyi-gromady.html",
@@ -6193,247 +6426,6 @@
         "post_type": "post",
         "id": 71897,
         "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71897"
-       }
-      ],
-      "curies": [
-       {
-        "name": "wp",
-        "href": "https://api.w.org/{rel}",
-        "templated": true
-       }
-      ]
-     }
-    }
-   ]
-  }
- },
- {
-  "id": 71902,
-  "date_gmt": "2026-11-02T11:55:00",
-  "link": "https://ukrainska-gromada.gov.ua/community/zhytelku-s-vytachiv-pryvitaly-z-90-richnym-yuvileyem.html",
-  "title": {
-   "rendered": "Жительку с. Витачів привітали з 90-річним ювілеєм"
-  },
-  "content": {
-   "rendered": "\n<p class=\"wp-block-paragraph\">Сьогодні свій 90-річний ювілей відзначає корінна жителька села Витачів Ганна Трохимівна Єфіменко.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Привітати ювілярку від імені Української міської територіальної громади завітали секретар Української міської ради Катерина Проценко, керівниця Центру надання соціальних послуг Людмила Ільєнко та староста села Людмила Гончарук.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"900\" height=\"1024\" src=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/871768836_1765186317869843_753275677915166801_n-900x1024.jpg\" alt=\"\" class=\"wp-image-71904\" srcset=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/871768836_1765186317869843_753275677915166801_n-900x1024.jpg 900w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/871768836_1765186317869843_753275677915166801_n-264x300.jpg 264w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/871768836_1765186317869843_753275677915166801_n-767x873.jpg 767w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/871768836_1765186317869843_753275677915166801_n-492x560.jpg 492w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/871768836_1765186317869843_753275677915166801_n-527x600.jpg 527w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/871768836_1765186317869843_753275677915166801_n.jpg 1088w\" sizes=\"auto, (max-width: 900px) 100vw, 900px\" /></figure>\n\n\n\n<p class=\"wp-block-paragraph\">Життєвий шлях Ганни Трохимівни був непростим. Після війни родина жила в скруті, тож уже в 12 років дівчинці довелося йти працювати. Як найстаршій із доньок у родині, Ганні довелося рано подорослішати й брати на себе турботу про сім’ю. Першим місцем роботи став цегельний завод у Стайках, де на юну Ганну чекала важка фізична праця.</p>\n\n\n\n<figure class=\"wp-block-image size-large\"><img loading=\"lazy\" decoding=\"async\" width=\"768\" height=\"1024\" src=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/879967036_1593286989524185_8669369273599071125_n-768x1024-1.jpg\" alt=\"\" class=\"wp-image-71905\" srcset=\"https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/879967036_1593286989524185_8669369273599071125_n-768x1024-1.jpg 768w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/879967036_1593286989524185_8669369273599071125_n-225x300.jpg 225w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/879967036_1593286989524185_8669369273599071125_n-450x600.jpg 450w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/879967036_1593286989524185_8669369273599071125_n-420x560.jpg 420w, https://ukrainska-gromada.gov.ua/wp-content/uploads/2026/11/879967036_1593286989524185_8669369273599071125_n.jpg 960w\" sizes=\"auto, (max-width: 768px) 100vw, 768px\" /></figure>\n\n\n\n<p class=\"wp-block-paragraph\">У 1957 році вона вийшла заміж за місцевого жителя Петра Михайловича. Разом подружжя виховало двох доньок. Згодом родина переїхала до Києва, де чоловік працював на будівництві Бортницької станції аерації. Ганна Трохимівна також долучилася до роботи на будівництві, працюючи малярем-штукатуром.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Вийшовши на пенсію, подружжя повернулося до рідного Витачева. У 2002 році Петра Михайловича не стало, та родинне тепло й любов близьких залишилися важливою частиною життя Ганни Трохимівни.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Сьогодні ювілярка радіє своїм двом донькам, трьом онукам і трьом правнукам. А коли її запитують про секрет довголіття, вона відповідає просто й щиро:</p>\n\n\n\n<p class=\"wp-block-paragraph\">«Ми завжди були дружною сім’єю. Мене всі оберігали, чоловік любив. І діти зараз люблять, балують, доглядають за мною. А особливого секрету немає».</p>\n\n\n\n<p class=\"wp-block-paragraph\">Мабуть, у цих словах і є найважливіше: любов рідних, турбота та відчуття, що ти потрібна своїй сім’ї.</p>\n\n\n\n<p class=\"wp-block-paragraph\">Від імені Української міської ради та всієї громади щиро вітаємо Ганну Трохимівну з поважним ювілеєм! Бажаємо міцного здоров’я, душевного спокою, родинного затишку, уваги й турботи від близьких. Нехай кожен день приносить добрі новини, приємні зустрічі та радість від спілкування з дітьми, онуками й правнуками!</p>\n",
-   "protected": false
-  },
-  "categories": [
-   17
-  ],
-  "_links": {
-   "self": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71902",
-     "targetHints": {
-      "allow": [
-       "GET"
-      ]
-     }
-    }
-   ],
-   "collection": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts"
-    }
-   ],
-   "about": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/post"
-    }
-   ],
-   "author": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
-    }
-   ],
-   "replies": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=71902"
-    }
-   ],
-   "version-history": [
-    {
-     "count": 1,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71902/revisions"
-    }
-   ],
-   "predecessor-version": [
-    {
-     "id": 71906,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71902/revisions/71906"
-    }
-   ],
-   "wp:featuredmedia": [
-    {
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/71903"
-    }
-   ],
-   "wp:attachment": [
-    {
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media?parent=71902"
-    }
-   ],
-   "wp:term": [
-    {
-     "taxonomy": "category",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/categories?post=71902"
-    },
-    {
-     "taxonomy": "post_tag",
-     "embeddable": true,
-     "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/tags?post=71902"
-    }
-   ],
-   "curies": [
-    {
-     "name": "wp",
-     "href": "https://api.w.org/{rel}",
-     "templated": true
-    }
-   ]
-  },
-  "_embedded": {
-   "wp:featuredmedia": [
-    {
-     "id": 71903,
-     "date": "2026-11-04T08:56:17",
-     "slug": "885819033_1121362773593340_1753231061291399823_n",
-     "type": "attachment",
-     "link": "https://ukrainska-gromada.gov.ua/community/zhytelku-s-vytachiv-pryvitaly-z-90-richnym-yuvileyem.html/attachment/885819033_1121362773593340_1753231061291399823_n",
-     "title": {
-      "rendered": "885819033_1121362773593340_1753231061291399823_n"
-     },
-     "author": 5,
-     "featured_media": 0,
-     "caption": {
-      "rendered": ""
-     },
-     "alt_text": "",
-     "media_type": "image",
-     "mime_type": "image/jpeg",
-     "media_details": {
-      "width": 1089,
-      "height": 1240,
-      "file": "2026/11/885819033_1121362773593340_1753231061291399823_n.jpg",
-      "filesize": 305369,
-      "sizes": {
-       "medium": {
-        "file": "885819033_1121362773593340_1753231061291399823_n-263x300.jpg",
-        "width": 263,
-        "height": 300,
-        "filesize": 17583,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71902.jpg"
-       },
-       "large": {
-        "file": "885819033_1121362773593340_1753231061291399823_n-899x1024.jpg",
-        "width": 899,
-        "height": 1024,
-        "filesize": 153008,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71902.jpg"
-       },
-       "thumbnail": {
-        "file": "885819033_1121362773593340_1753231061291399823_n-150x150.jpg",
-        "width": 150,
-        "height": 150,
-        "filesize": 6278,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71902.jpg"
-       },
-       "medium_large": {
-        "file": "885819033_1121362773593340_1753231061291399823_n-768x874.jpg",
-        "width": 768,
-        "height": 874,
-        "filesize": 116155,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71902.jpg"
-       },
-       "egovt_portfolio_thumb": {
-        "file": "885819033_1121362773593340_1753231061291399823_n-527x600.jpg",
-        "width": 527,
-        "height": 600,
-        "filesize": 58802,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71902.jpg"
-       },
-       "egovt_blog_thumb": {
-        "file": "885819033_1121362773593340_1753231061291399823_n-492x560.jpg",
-        "width": 492,
-        "height": 560,
-        "filesize": 51791,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71902.jpg"
-       },
-       "full": {
-        "file": "885819033_1121362773593340_1753231061291399823_n.jpg",
-        "width": 1089,
-        "height": 1240,
-        "mime_type": "image/jpeg",
-        "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71902.jpg"
-       }
-      },
-      "image_meta": {
-       "aperture": "0",
-       "credit": "",
-       "camera": "",
-       "caption": "",
-       "created_timestamp": "0",
-       "copyright": "",
-       "focal_length": "0",
-       "iso": "0",
-       "shutter_speed": "0",
-       "title": "",
-       "orientation": "0",
-       "keywords": [],
-       "alt": ""
-      }
-     },
-     "source_url": "https://raw.githubusercontent.com/i-stadnyk/ukrainka-gromada-mirror/main/img/71902.jpg",
-     "_links": {
-      "self": [
-       {
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media/71903",
-        "targetHints": {
-         "allow": [
-          "GET"
-         ]
-        }
-       }
-      ],
-      "collection": [
-       {
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/media"
-       }
-      ],
-      "about": [
-       {
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/types/attachment"
-       }
-      ],
-      "author": [
-       {
-        "embeddable": true,
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/users/5"
-       }
-      ],
-      "replies": [
-       {
-        "embeddable": true,
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/comments?post=71903"
-       }
-      ],
-      "wp:attached-to": [
-       {
-        "embeddable": true,
-        "post_type": "post",
-        "id": 71902,
-        "href": "https://ukrainska-gromada.gov.ua/wp-json/wp/v2/posts/71902"
        }
       ],
       "curies": [
